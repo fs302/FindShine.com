@@ -3,9 +3,9 @@
 [http://findshine.com/me/index.html Home Page]([ofanshen@gmail.com])
 
 ~~~
-{}{img_left}{http://findshine.com/me/image/fs.jpg}{Shen Fan}
+{}{img_left}{image/fs_356.jpg}{Shen Fan}
 Senior Algorithm Engineer,\n
-at Alibaba Group..\n\n
+at Alibaba Group.\n\n
 
 
 Graduated from School of Computer Science and Engineering,\n
@@ -15,9 +15,8 @@ Chengdu, Sichuan, P.R.China.\n\n
 ~~~
 
 == Research Interests
+- Network Science: Social Network Mining, Network Representation, Community Detection
 - Statistical Learning, Reinforcement Learning (e.g. Bandit)
-- Network Analysis, Recommendation Algorithm
-- Dynamics in Complex Systems
 
 == Skills
 - Algorithm design, analysis and implementation
