@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{hin_resources.html}
+= HIN Resources
+[http://findshine.com/me/index.html FindShine]([ofanshen@gmail.com])
+
+This page list some important resources collected for Heterogeneous Information Networks.
+
+== Network Embedding
+
+. Liu, Zemin, et al. "[https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14508 Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding.]" AAAI. 2017.\[[downloads/papers/aaai17-Semantic_Proximity_Search_on_Heterogeneous_Graph_by_Proximity_Embedding.pdf PDF]\]\[[https://github.com/vwz/ProxEmbed CODE]\]
+
+
+== Recommendation
+
+. Wang, Xin, et al. "[https://dl.acm.org/citation.cfm?id=3052556 Learning personalized preference of strong and weak ties for social recommendation.]" Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017. \[[downloads/papers/www2017-Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation.pdf PDF]\]
+
